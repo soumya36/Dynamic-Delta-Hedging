@@ -1,4 +1,4 @@
-# Dynamic Delta Hedging — C++17 (g++-15)
+# Dynamic Delta Hedging
 
 Implements the ISyE 6767 interim project: **dynamic delta hedging** for a European call option using the **Black–Scholes (B–S)** model.
 
