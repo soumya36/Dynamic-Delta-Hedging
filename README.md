@@ -155,3 +155,4 @@ Smoke tests validate:
 - Task 2 strict `result.csv` and daily IV/Δ
 - Report template provided in `reports/` (fill after running code with plots and test summaries)
 # Dynamic-Delta-Hedging
+# Dynamic-Delta-Hedging
